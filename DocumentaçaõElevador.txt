@@ -1,0 +1,9 @@
+Este programa é um sistema de elevador.
+
+Ao  iniciar o sistema o usuário seleciona o andar desejado, que corresponde do  térreo (0) ao 7  pavimento. 
+Se o número selecionado não for compatível com a numeração  presentes no sistema (0-7), o usuário será informado com a seguinte mensagem:
+"Escolha inválida".
+
+Com a seleção dos andares corretos o usuário tende a informar quantas pessoas há no elevador. Se o número de pessoas ultrapassar o limite 
+receberá a seguinte mensagem:"Capacidade Maxima de Pessoas Atingida, aguardando a saida................",  e o sistema voltará para a opção 
+de seleção do andar. Caso todas as vagas e o andar estiverem de acordo com os parâmetros definidos para o sistema. 

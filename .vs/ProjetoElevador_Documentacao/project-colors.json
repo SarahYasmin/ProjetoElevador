@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88cf8c91-6a70-4740-b1a3-99cc0f8a29e6": {
+      "ProjectGuid": "88cf8c91-6a70-4740-b1a3-99cc0f8a29e6",
+      "DisplayName": "ProjetoElevador_Documentacao",
+      "ColorIndex": 0
+    },
+    "c910d65a-a714-4e8d-96a0-b14ca1344994": {
+      "ProjectGuid": "c910d65a-a714-4e8d-96a0-b14ca1344994",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
